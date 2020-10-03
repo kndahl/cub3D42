@@ -11,6 +11,7 @@ where map.cub is an argument which includes the ways to textures, map and colors
 Map must be closed (1).
 For example:
 Valid map:
+
 111
 
 101
