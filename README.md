@@ -2,7 +2,9 @@
 RayCasting Game
 
 To compile:
+```sh
 make
+```
 
 To start:
 ./cub3D map.cub
