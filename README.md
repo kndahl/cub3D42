@@ -1,17 +1,17 @@
 # cub3D
-RayCasting Game
+### RayCasting Game
 
-To compile:
+### To compile:
 ```sh
 make
 ```
 
-To start:
+### To start:
 ```sh
 ./cub3D map.cub
 ```
 
-Also you are able to make screenshot. Just write:
+### Also you are able to make screenshot. Just write:
 ```sh
 ./cub3D map.cub --save
 ```
@@ -21,7 +21,7 @@ Map must be closed (1).
 
 For example:
 
-Valid map:
+### Valid map:
 
 111 
 
@@ -29,7 +29,7 @@ Valid map:
 
 111 
 
-Invalid map:
+### Invalid map:
 
 1 1
 
@@ -38,9 +38,8 @@ Invalid map:
 111
 
 
-Playing Process
-
-Movements:
+### Playing Process
+ -  Movements:
 WSAD
 Shots:
 Mouse click
