@@ -31,7 +31,7 @@ For example:
 
 ### Invalid map:
 
-1 1
+1  1
 
 101
 
