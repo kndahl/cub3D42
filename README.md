@@ -38,3 +38,4 @@ WSAD
 Shots:
 Mouse click
 To turn off/turn on the music use button "q"
+Quit ECS or X button
