@@ -37,6 +37,7 @@ For example:
 
 111
 
+**Therefore all 0, player and sprites must be locked by 1.**
 
 ### Playing Process
  -  Movements:
