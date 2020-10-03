@@ -12,11 +12,9 @@ Map must be closed (1).
 For example:
 Valid map:
 
-111
-
-101
-
-111
+111 
+101 
+111 
 
 Invalid map:
 1 1
