@@ -1,5 +1,6 @@
 # cub3D
 ### RayCasting Game
+![](cub3D.gif)
 
 ### To compile:
 ```sh
